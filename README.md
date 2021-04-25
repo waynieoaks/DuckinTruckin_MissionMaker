@@ -23,25 +23,18 @@ Feel free to edit to suit your requirements, including adjusting the mission tim
 
 ## Current Missions: ##
 
-### 001 The Clucking Bell ###
-Recreated from the original Trucking Missions mod. Pickup a Clucking Bell trailer from Grapeseed and deliver it to the factory in Paleto Bay. (Credit, Guadmaz)
-
-### 002 Clucking Bell 2 ###
-A spin on the original Clucking Bell mission, collect from a different farm in Grapeseed.
-
-### 003 Clucking Bell 3 ###
-A spin on the original Clucking Bell mission, collect from farm near the grain silos on Union Lane.
-
-### 004 Revenge of the Clucking Bell ###
-Head into the city at night to collect some special ingredients from the Coroner's Office
+* **001 The Clucking Bell:** Recreated from the original Trucking Missions mod. Pickup a Clucking Bell trailer from Grapeseed and deliver it to the factory in Paleto Bay. (Credit, Guadmaz)
+* **002 Clucking Bell 2:** A spin on the original Clucking Bell mission, collect from a different farm in Grapeseed.
+* **003 Clucking Bell 3:** A spin on the original Clucking Bell mission, collect from farm near the grain silos on Union Lane.
+* **004 Revenge of the Clucking Bell:** Head into the city at night to collect some special ingredients from the Coroner's Office
 
 ### More missions coming soon ###
-I am looking to develop more missions as time allows. 
+I am looking to develop more missions as time allows. If you have any great ideas for missions, share them by raising an issue. 
 
 ## Known issues: ##
 
 1. You can drive off without dropping trailer. This is a limit with MissionMaker.
-2. You do not get paid like you do with Trucking Missions
+2. You do not get paid like you do with Trucking Missions, again this is a limit of the MissionMaker mod. 
 
 ## Credits: ##
 [Guadmaz](https://www.gta5-mods.com/users/Guadmaz): The original author of Trucking Missions
