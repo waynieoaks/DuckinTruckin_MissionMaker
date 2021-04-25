@@ -43,5 +43,5 @@ I am looking to develop more missions as time allows.
 1. You can drive off without dropping trailer. This is a limit with MissionMaker.
 2. You do not get paid like you do with Trucking Missions
 
-##Credits: ##
+## Credits: ##
 [Guadmaz](https://www.gta5-mods.com/users/Guadmaz): The original author of Trucking Missions
