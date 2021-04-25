@@ -8,7 +8,9 @@ While I like the Trucking Missions mod, I missed being able to use custom or add
 
 You can pick one of the three available trucks or spawn in your own if using add on trucks. The timer will start when you leave the compound and stop when you deliver the trailer. You can then drive back to the compound at your own leasure.  
 
-Timings for the missions is based on following traffic laws. I recommend the following mods to add to the realism: 
+Timings for the missions is based on following traffic laws. 
+
+I recommend the following mods to add to the realism: 
  
 1. [Pull me over](https://www.gta5-mods.com/scripts/pull-me-over-0-8) 
 2. [I Surrender](https://www.gta5-mods.com/scripts/i-surrender)
